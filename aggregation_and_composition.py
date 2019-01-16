@@ -1,5 +1,3 @@
-
-
 # This shows how the composition works
 class Composition:
     # We have __Other class inside the Composition class
